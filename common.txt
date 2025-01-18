@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Added by Developer1!
+=======
+Addede by Developer2!
+>>>>>>> cb3db81239c3d7e561a5deee5ea657701fe38fbe
